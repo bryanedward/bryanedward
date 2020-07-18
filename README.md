@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there. I'm Bryan. I'm from Ecuador 👋
+
+💬 Ask me about ...
+
 
 <!--
 **bryanedward/bryanedward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
