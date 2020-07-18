@@ -6,7 +6,7 @@ const bryan = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node],
-   challenge: "I am doing the #30DaysOfCode challenge focused on js"
+  challenge: "I am doing the #30DaysOfCode challenge focused on js"
 }
 ```
 
