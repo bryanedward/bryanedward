@@ -1,16 +1,25 @@
-### Hi there. I'm Bryan. I'm from Ecuador 👋
+
+### :ghost: Hi there. I'm Bryan.
 
 
 ```js
 const bryan = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Python, Php],
   tools: [React, Node],
   challenge: "I am doing the #30DaysOfCode challenge focused on js"
 }
 ```
 
-### Goals for 2020
+## :trophy: Goals for 2020 
+I wanna make a little website this year with Laravel and React!!
+
+
+
+## :postbox: You can find to me :
+- Instagram : https://www.instagram.com/bryanedward96
+- Twitter: https://twitter.com/brianed35616524?s=08
+
 
 
 <!--
