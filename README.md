@@ -22,3 +22,9 @@ I want to learn python!!
 ## :postbox: You can find to me :
 - Instagram : https://www.instagram.com/bryanedward96
 
+<br/>
+## Latest blog post
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
