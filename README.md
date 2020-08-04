@@ -15,15 +15,16 @@ const BryanEdward = {
 }
 ```
 
-## :trophy: Goals for 2020 
+### :trophy: Goals for 2020 
 I want to learn python!!
 
 
-## :postbox: You can find to me :
+### :postbox: You can find to me :
 - Instagram : https://www.instagram.com/bryanedward96
 
-<br/>
-## Latest blog post
+
+### :books: Latest blog post
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
