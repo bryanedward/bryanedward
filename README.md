@@ -1,38 +1,24 @@
 
 ### :ghost: Hi there. I'm Bryan.
 
+- 🌱 I’m currently learning C# and React
+- 😄 Pronouns: Spanish
+- 💬 Ask me about everything
+
 
 ```js
-const bryan = {
+const BryanEdward = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Php],
-  tools: [React, Node],
-  challenge: "I am doing the #30DaysOfCode challenge focused on js"
+  code: [Javascript, Php, 'C#'],
+  framework: [Nodejs, React, Laravel, Netcore],
+  database: [PostgreSQL, mongoDB, microsoftSqlServer]
 }
 ```
 
 ## :trophy: Goals for 2020 
-I wanna make a little website this year with Laravel and React!!
-
+I want to learn python!!
 
 
 ## :postbox: You can find to me :
 - Instagram : https://www.instagram.com/bryanedward96
-- Twitter: https://twitter.com/brianed35616524?s=08
 
-
-
-<!--
-**bryanedward/bryanedward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
