@@ -1,7 +1,7 @@
 
 ### :ghost: Hi there. I'm Bryan.
 
-- 🌱 I’m currently learning C# and React
+- 🌱 I’m currently React
 - 😄 Pronouns: Spanish
 - 💬 Ask me about everything
 
@@ -9,8 +9,8 @@
 ```js
 const BryanEdward = {
   pronouns: "he" | "him",
-  code: [Javascript, Php, 'C#'],
-  framework: [Nodejs, React, Laravel, Netcore],
+  code: [Javascript, Php],
+  framework: [Nodejs, React, Laravel],
   database: [PostgreSQL, mongoDB, microsoftSqlServer]
 }
 ```
