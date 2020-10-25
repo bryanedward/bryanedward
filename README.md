@@ -11,11 +11,11 @@ const BryanEdward = {
   pronouns: "he" | "him",
   code: [Javascript, Php],
   framework: [Nodejs, React, Laravel],
-  database: [PostgreSQL, mongoDB, microsoftSqlServer]
+  database: [PostgreSQL, mongoDB]
 }
 ```
 
-### :trophy: Goals for 2020 
+### :trophy: Goals for 2020 - 2021
 I want to learn python!!
 
 
