@@ -10,13 +10,13 @@
 const BryanEdward = {
   pronouns: "he" | "him",
   code: [Javascript, Php],
-  framework: [Nodejs, React, Laravel],
+  framework: [Nodejs, React],
   database: [PostgreSQL, mongoDB]
 }
 ```
 
 ### :trophy: Goals for 2020 - 2021
-I want to learn python!!
+I want to learn react!!
 
 
 ### :postbox: You can find to me :
