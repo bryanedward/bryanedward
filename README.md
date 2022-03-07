@@ -9,14 +9,14 @@
 ```js
 const BryanEdward = {
   pronouns: "he" | "him",
-  code: [Javascript, Php],
+  code: [Javascript],
   framework: [Nodejs, React],
   database: [PostgreSQL, mongoDB]
 }
 ```
 
-### :trophy: Goals for 2020 - 2021
-I want to learn react!!
+### :trophy: Goals for 2021 - 2022
+I would like to work in some startup!!
 
 
 ### :postbox: You can find to me :
