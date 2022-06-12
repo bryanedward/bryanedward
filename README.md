@@ -51,8 +51,8 @@ const BryanEdward = {
 
 ### :trophy: Metas  2021 - 2022
 - Elevar mi dominio en herramientas de Microsoft (PowerApps , PowerAutomate, Sharepoint-Framework(react), etc)
-- Elevar mis conocimientos en react de un nivel intermedio a pro 
-- Mejorar dominio de levantamientos de requisitos 
+- Avanzar al siguiente nivel de react de un nivel intermedio a pro con typescript
+- Mejorar dominio de levantamientos de requisitos y documentación
 
 ### :postbox: Pueden buscarme en :
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:edwardbrian96@gmail.com)](mailto:edwardbrian96@gmail.com)
