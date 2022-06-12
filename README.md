@@ -3,7 +3,7 @@
 
 ### Extracto
  
-- 😄 Idiomas: Español
+- 😄 Idiomas: Español y Inglés (b1)
 - 💬 Habilidades: Habilidades sociales, Propiedad colectiva, Pasión por la enseñanza
 
 
