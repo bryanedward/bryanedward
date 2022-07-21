@@ -1,21 +1,22 @@
-<h1 align="center">Hola 😄 mundo !!</h1>
-<h3 align="center">Me dedicado a desarrollar aplicaciones </h3>
+<h1 align="center">Hi 😄 everyone !!</h1>
+<h3 align="center">I hope that my projects, You like it , I use to work with nodejs and react and relational database  </h3>
 
-### Extracto
+### Resume
  
-- 😄 Idiomas: Español y Inglés (b1)
-- 💬 Habilidades: Habilidades sociales, Propiedad colectiva, Pasión por la enseñanza
+- 😄 Language: Spanish and English (b1)
+- 💬 Collaborative, Committed, Determined
+<!-- - 💬 Skills: Habilidades sociales, Propiedad colectiva, Pasión por la enseñanza -->
 
 
-### Tecnologias en las que tenido la oportunidad de aprender 
+### Tools and more !
 
-#### Nube
+ #### Cloud
 <p>
   <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=react&logoColor=white" />
   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=react&logoColor=white" />
 </p>
 
- #### framework - languajes - base de datos
+ #### framework - database
 <p>
   <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-react-0175C2?style=flat-square&logo=react&logoColor=white" />
@@ -24,12 +25,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### Diseño
+#### Designer
  <p>
    <img alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=react&logoColor=white" />
  <p/>
 
-### Fortalezas principales
+### Strengths
 ```js
 const BryanEdward = {
   pronouns: "he" | "him",
@@ -38,14 +39,7 @@ const BryanEdward = {
   database: [PostgreSQL]
 }
 ```
-
-### :trophy: Metas  2021 - 2022
-- Elevar mi dominio en herramientas de Microsoft (PowerApps , PowerAutomate, Sharepoint-Framework(react), etc)
-- Avanzar al siguiente nivel de react de un nivel intermedio a pro con typescript
-- Mejorar dominio de levantamientos de requisitos y documentación
-
-
-### Tecnologias que estoy aprendiendo
+### I am studying 
 <p>
 <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=react&logoColor=white" />
  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF2D20?style=flat-square&logo=amazon&logoColor=white" />
@@ -56,8 +50,11 @@ const BryanEdward = {
 </p>
 
 
-### :postbox: Pueden buscarme en :
+### :postbox: You can look:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:edwardbrian96@gmail.com)](mailto:edwardbrian96@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanpomaqueroquimizdev/)](https://www.linkedin.com/in/bryanpomaqueroquimizdev/)
 
+<!-- ### :trophy: Goals  2021 - 2022 -->
+<!-- - Elevar mi dominio en herramientas de Microsoft (PowerApps , PowerAutomate, Sharepoint-Framework(react), etc) -->
+<!-- - Avanzar al siguiente nivel de react de un nivel intermedio a pro con typescript -->
 
