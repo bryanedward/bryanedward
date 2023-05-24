@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😄 everyone !!</h1>
-<h3 align="center">I hope that my projects, You like it , I use to work with nodejs and react and relational database  </h3>
+<h3 align="center">nodejs and react and relational database  </h3>
 
 ### Resume
  
